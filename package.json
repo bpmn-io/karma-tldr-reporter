@@ -1,0 +1,24 @@
+{
+  "name": "karma-tldr-reporter",
+  "version": "0.0.1",
+  "description": "Minimal, greppable karma reporter made by the bpmn.io team",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter"
+  ],
+  "scripts": {
+    "test": "echo \"no tests yet\" && exit 0"
+  },
+  "peerDependencies": {
+    "karma": "^6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bpmn-io/karma-tldr-reporter.git"
+  },
+  "license": "MIT"
+}
