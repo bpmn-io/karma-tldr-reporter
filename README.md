@@ -2,9 +2,9 @@
 
 A minimal karma reporter optimized for humans and AI/log scrapers.
 
-### TL;DR:
+#### TL;DR:
 
-- **failures-only** live output by default
+- failures-only live output by default
 - `--verbose` / `-v` to stream every pass/skip line
 - `--grep` / `-g` forwarded to mocha (run a subset of tests)
 - compact, greppable summary of failed tests at the end
