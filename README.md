@@ -37,23 +37,9 @@ npm test -- --verbose             # also print every pass/skip  (alias: -v)
 npm test -- --grep "should add"   # run only matching tests     (alias: -g, or --grep=...)
 ```
 
-## Output
+## Example output
 
-```
-✗ fail features/modeling > should move shape
-    AssertionError: expected 2 to equal 3
-        at test/spec/features/modeling/ModelingSpec.js:42:8
-
-# tests 2088
-✓ pass  2085
-✗ fail  1
-» skip  2
-⏱ time  18.0s
-
-# Failed tests (1):
-✗ features/modeling > should move shape
-    AssertionError: expected 2 to equal 3
-```
+[![Example output](./example.png)](./example.png)
 
 ANSI color is used only when stdout is a TTY and `NO_COLOR` is unset.
 
