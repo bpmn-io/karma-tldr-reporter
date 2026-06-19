@@ -2,9 +2,9 @@
   "name": "karma-tldr-reporter",
   "version": "0.0.1",
   "description": "Minimal, greppable karma reporter made by the bpmn.io team",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "files": [
-    "src"
+    "lib"
   ],
   "keywords": [
     "karma-plugin",
