@@ -11,10 +11,17 @@
     "karma-reporter"
   ],
   "scripts": {
+    "all": "run-s lint test",
+    "lint": "eslint .",
     "test": "echo \"no tests yet\" && exit 0"
   },
   "peerDependencies": {
     "karma": "^6.4"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.4",
+    "eslint-plugin-bpmn-io": "^2.2.0",
+    "npm-run-all2": "^9.0.0"
   },
   "repository": {
     "type": "git",
