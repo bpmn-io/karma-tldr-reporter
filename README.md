@@ -1,5 +1,7 @@
 # karma-tldr-reporter
 
+[![CI](https://github.com/bpmn-io/karma-tldr-reporter/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/bpmn-io/karma-tldr-reporter/actions/workflows/CI.yml)
+
 A minimal karma reporter optimized for humans and AI/log scrapers.
 
 #### TL;DR:
