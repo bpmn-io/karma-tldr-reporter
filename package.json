@@ -27,5 +27,8 @@
     "type": "git",
     "url": "git+https://github.com/bpmn-io/karma-tldr-reporter.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "allowScripts": {
+    "unrs-resolver@1.12.2": true
+  }
 }
