@@ -6,6 +6,10 @@ All notable changes to [karma-tldr-reporter](https://github.com/bpmn-io/karma-tl
 
 ___Note:__ Yet to be released changes appear here._
 
+## 1.0.0
+
+* `FEAT`: report progress ([#1](https://github.com/bpmn-io/karma-tldr-reporter/pull/1))
+
 ## 0.0.2
 
 * `FEAT`: indicate that tests are running
