@@ -13,14 +13,16 @@
   "scripts": {
     "all": "run-s lint test",
     "lint": "eslint .",
-    "test": "echo \"no tests yet\" && exit 0"
+    "test": "mocha \"test/*.spec.js\""
   },
   "peerDependencies": {
     "karma": "^6.4"
   },
   "devDependencies": {
+    "chai": "^5.3.3",
     "eslint": "^9.39.4",
     "eslint-plugin-bpmn-io": "^2.2.0",
+    "mocha": "^11.7.6",
     "npm-run-all2": "^9.0.0"
   },
   "repository": {
