@@ -1,6 +1,6 @@
 {
   "name": "karma-tldr-reporter",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Minimal, greppable karma reporter made by the bpmn.io team",
   "main": "lib/index.js",
   "files": [
